@@ -1,0 +1,4 @@
+github.com/go-god/crypto v1.1.0 h1:iZgr1XDmx7jE5ZzmWSqxV5kntn1ZTZLA+dPdPl5nf6c=
+github.com/go-god/crypto v1.1.0/go.mod h1:H/q+qM8r88eGKv320khI/HewEhKHv8Nvnri65HaSMyY=
+github.com/google/uuid v1.2.0 h1:qJYtXnJRWmpe7m/3XlyhrsLrEURqHRM2kxzoxXqyUDs=
+github.com/google/uuid v1.2.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
